@@ -25,7 +25,7 @@ uploaded_file = st.sidebar.file_uploader("ファイル選択", type="csv")
 <div align="center">
 <figure style="text-align:center;">
 <img src="./img/ex_streamlit_widget.png" style="height:200pt; display:block">
-<figcaption>
+<figcaption style="display:block">
 図1 streamlit を用いたウィジェットの実装例
 </figcaption>
 </figure>
